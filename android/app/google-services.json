@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "661225577781",
+    "firebase_url": "https://coffeemondo-365813-default-rtdb.firebaseio.com",
+    "project_id": "coffeemondo-365813",
+    "storage_bucket": "coffeemondo-365813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661225577781:android:39d56b05f8eb9cdf5c807c",
+        "android_client_info": {
+          "package_name": "cl.coffeemondo.coffeemondo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661225577781-37mfk9l10cjlsf89oermju8m1odc3ls7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.coffeemondo.coffeemondo",
+            "certificate_hash": "885c9e997fa825cfdf112267bec063e0fcc49ad7"
+          }
+        },
+        {
+          "client_id": "661225577781-o96s7nvk4tpho4u9kchjs86qf6argt34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.coffeemondo.coffeemondo",
+            "certificate_hash": "0cbf6ecbac5bc57405d8968ae952ea6621731f92"
+          }
+        },
+        {
+          "client_id": "661225577781-oq3nldebedqthp0gpuk1kthhcln2ti7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.coffeemondo.coffeemondo",
+            "certificate_hash": "2f2e9737c93e9532453d8a426d8c75d731510d8a"
+          }
+        },
+        {
+          "client_id": "661225577781-f9tdt2r8uf9r7cgk1ve8j3r8vjlbl2nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJGgjUxRl4m3QjduowCiWmc8epCFnoFkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661225577781-0l62ursjv9jgo1fr2220qej4ehdb33s9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661225577781-nd9jnub72kpc65ahrgqfe3r7gu90n2uo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cl.coffeemondo.coffeemondo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661225577781:android:20d28888f490fc0c5c807c",
+        "android_client_info": {
+          "package_name": "com.example.prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661225577781-f9tdt2r8uf9r7cgk1ve8j3r8vjlbl2nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJGgjUxRl4m3QjduowCiWmc8epCFnoFkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661225577781-0l62ursjv9jgo1fr2220qej4ehdb33s9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661225577781-nd9jnub72kpc65ahrgqfe3r7gu90n2uo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cl.coffeemondo.coffeemondo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
